@@ -10,3 +10,8 @@ function ninjaBabySelector(){
   return $('img#baby-nijna')
 }
 
+function divSelector(){
+  return $('div.pics')
+}
+
+funciton 
