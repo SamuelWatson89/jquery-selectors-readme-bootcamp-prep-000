@@ -1,3 +1,3 @@
 function paragraphSelector() {
-  $("p").append('style="background="red"');
+  $("p").append('style="background: red;');
 }
